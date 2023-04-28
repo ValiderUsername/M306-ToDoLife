@@ -16,3 +16,28 @@ html {
 body {
   margin-bottom: 60px;
 }
+table {
+    border: solid 2px black;
+    background-color: lightblue;
+    font-size: 15px;
+    text-align: center;
+}
+li{
+    border: solid 1px gray;
+    background-color: darkgray;
+}
+label{
+    font-weight: bold;
+}
+row{
+    text-align: center;
+}
+th {
+    border: solid 1px;
+}
+td{
+    border: solid 1px;
+}
+.table{
+    border: solid 2px;
+}
